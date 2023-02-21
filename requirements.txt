@@ -1,0 +1,5 @@
+pandas
+google
+openpyxl
+tqdm
+hu_core_news_lg
