@@ -1,5 +1,5 @@
 # cap-benchmark-gcp
-These simple scripts can...
+A collection of scripts for automatic corpus generation on Google Cloud Platform.
 
 1. Convert XLSX to newline-delimited JSON.
 2. Upload data to Cloud Storage.
